@@ -23,7 +23,7 @@ Your request will only be processed if it originates from an engineering lead, p
 
 ### 2. Submission Channels
 Submit your technical credentials and the criteria above through one of the verified endpoints:
-* **Secure Email:** [Insert Your Professional Email Here]
+* **Secure Email:** [jadeavsileywinditt@gmail.com]
 * **GitHub Issue:** Open a formal issue in this profile repository using the label `Access Request`.
 
 ### 3. Provisioning Details
