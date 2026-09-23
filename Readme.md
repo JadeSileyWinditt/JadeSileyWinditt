@@ -8,6 +8,9 @@ Building resilient systems designed to execute across highly constrained terrest
 ## 🔒 Intellectual Property & Repository Sovereignty
 To protect proprietary silicon designs, custom cryptographic primitives, and physical boundary math frameworks, all core codebases have been migrated to **Private Repositories**. Public forks have been permanently severed. 
 
+### Current Private Frameworks
+- **Sovereign Compute** — Multi-jurisdiction, delay-tolerant compute fabric with causal constraints, partial-knowledge Δx/Δp metrics, and physical envelopes (Earth + orbital).
+
 Reviewing, auditing, or collaborating on these frameworks is strictly restricted to verified deep-tech organizations, aerospace engineering teams, and research groups by authorized invitation only.
 
 ---
