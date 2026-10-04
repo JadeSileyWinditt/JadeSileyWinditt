@@ -8,3 +8,6 @@ Low-power silicon, fault-tolerant networks, and compute for constrained terrestr
 The code is not public. The authorship 
 ### 3. Provisioning Details
 Upon mathematical and identity verification, temporary read-only collaborator permissions will be provisioned for a strict **7-day evaluation window**. Unauthorized copying, extraction, or distribution of private repository contents will result in the immediate revocation of credentials and legal enforcement of intellectual property rights.
+
+Request by email only. Access is not automatic.
+jadesileywinditt@gmail.com
