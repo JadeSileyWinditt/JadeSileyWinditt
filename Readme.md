@@ -5,6 +5,8 @@
 Author of Sovereign Compute and the private frameworks built under this name.  
 Low-power silicon, fault-tolerant networks, and compute for constrained terrestrial and orbital environments.
 
+**[Evaluation guide](EVALUATION.md)** — one-command demos and chaos tests for the three usable prototypes.
+
 The code is not public. The authorship is.
 
 ---
