@@ -1,8 +1,10 @@
-# Three Usable Prototypes
+# Prototypes
 
-Each can be cloned and run with one command.
+Six research prototypes. Three have one-command entry points for evaluation.
 
-## 1. Sovereign Compute
+## Usable now (one command)
+
+### 1. Sovereign Compute
 Delay-tolerant job placement and resume when links are intermittent.
 
 ```bash
@@ -11,9 +13,9 @@ cd Soverign-Compute
 bash setup_and_run.sh
 ```
 
-What you get: k-of-n placement, kill handling, resume-after-delay, persistent state, UDP loopback with drops.
+k-of-n placement, kill handling, resume-after-delay, persistent state, UDP loopback with drops.
 
-## 2. Ultra-low-power 6G Baseband
+### 2. Ultra-low-power 6G Baseband
 Power-envelope check for a 2048-tile fabric under a 4 W limit.
 
 ```bash
@@ -22,9 +24,9 @@ cd Ultra-low-power-6G-baseband-architecture
 bash setup_and_run.sh
 ```
 
-What you get: stays_under_envelope() call, internal co-sim model (not silicon), chaos load-spike test, labeled power log.
+stays_under_envelope() call, internal co-sim model (not silicon), chaos load-spike test, labeled power log.
 
-## 3. Phx-passport
+### 3. Phx-passport
 Local track store that does not treat missing history as an error.
 
 ```bash
@@ -33,7 +35,19 @@ cd Phx-passport
 bash setup_and_run.sh
 ```
 
-What you get: record() / history(), empty list on miss, file-backed persistence, chaos wipe-and-recover test.
+record() / history(), empty list on miss, file-backed persistence, chaos wipe-and-recover test.
+
+## Research prototypes
+
+### 4. Rubik Aero
+Structure-preserving discrete advection + near-wall model for Cd / Cl / L/D.
+NACA 0012 benchmark included. Interactive 3D view available.
+
+### 5. Residue Theorem 2D Particle Simulator
+Complex-analysis residue theorem mapped to an interactive physics engine.
+
+### 6. Holographic Horizon Shield v2
+Boundary and horizon model (research).
 
 ---
 
