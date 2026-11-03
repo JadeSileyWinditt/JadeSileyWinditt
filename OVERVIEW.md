@@ -1,8 +1,21 @@
-# Prototypes
+# Prototypes — Christmas 2026
 
-Six research prototypes. Three have one-command entry points for evaluation.
+Six research prototypes. Three have one-command entry points. One public taster is available.
 
-## Usable now (one command)
+## Public taster
+
+**Sovereign Compute taster**  
+https://github.com/JadeSileyWinditt/sovereign-compute-taster
+
+```bash
+git clone https://github.com/JadeSileyWinditt/sovereign-compute-taster.git
+cd sovereign-compute-taster
+bash setup_and_run.sh
+```
+
+Shows k-of-n placement, kill/resume, and packet drops. Full source under license.
+
+## Usable now (private, one command)
 
 ### 1. Sovereign Compute
 Delay-tolerant job placement and resume when links are intermittent.
@@ -13,8 +26,6 @@ cd Soverign-Compute
 bash setup_and_run.sh
 ```
 
-k-of-n placement, kill handling, resume-after-delay, persistent state, UDP loopback with drops.
-
 ### 2. Ultra-low-power 6G Baseband
 Power-envelope check for a 2048-tile fabric under a 4 W limit.
 
@@ -23,8 +34,6 @@ git clone https://github.com/JadeSileyWinditt/Ultra-low-power-6G-baseband-archit
 cd Ultra-low-power-6G-baseband-architecture
 bash setup_and_run.sh
 ```
-
-stays_under_envelope() call, internal co-sim model (not silicon), chaos load-spike test, labeled power log.
 
 ### 3. Phx-passport
 Local track store that does not treat missing history as an error.
@@ -35,13 +44,11 @@ cd Phx-passport
 bash setup_and_run.sh
 ```
 
-record() / history(), empty list on miss, file-backed persistence, chaos wipe-and-recover test.
-
 ## Research prototypes
 
 ### 4. Rubik Aero
 Structure-preserving discrete advection + near-wall model for Cd / Cl / L/D.
-NACA 0012 benchmark included. Interactive 3D view available.
+NACA 0012 benchmark included.
 
 ### 5. Residue Theorem 2D Particle Simulator
 Complex-analysis residue theorem mapped to an interactive physics engine.
@@ -51,6 +58,5 @@ Boundary and horizon model (research).
 
 ---
 
-Full evaluation steps and commercial contact: [EVALUATION.md](EVALUATION.md)
-
-Authorship only on the public repositories. Source license by request.
+Evaluation and commercial contact: [EVALUATION.md](EVALUATION.md)  
+Authorship only on public repositories. Source license by request.
