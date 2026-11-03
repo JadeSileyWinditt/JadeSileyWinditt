@@ -5,10 +5,11 @@
 Author of Sovereign Compute and the private frameworks built under this name.  
 Low-power silicon, fault-tolerant networks, and compute for constrained terrestrial and orbital environments.
 
-**[Six prototypes](OVERVIEW.md)** — three with one-command demos, three research.  
-**[Evaluation guide](EVALUATION.md)** — full steps and chaos tests.
+**[Six prototypes](OVERVIEW.md)** — three one-command demos, public taster available.  
+**[Evaluation guide](EVALUATION.md)** — full steps and chaos tests.  
+**[Public taster](https://github.com/JadeSileyWinditt/sovereign-compute-taster)** — Sovereign Compute, one command.
 
-The code is not public. The authorship is.
+The full code is not public. The authorship is.
 
 ---
 
@@ -30,4 +31,4 @@ Request by email only. Access is not automatic.
 - Compute for constrained and orbital environments  
 - Private frameworks under the Sovereign Compute name  
 
-No public code. No open issues. No pull requests.
+No open issues. No pull requests on private repositories.
